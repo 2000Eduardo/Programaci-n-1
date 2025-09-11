@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-string esParOImpar(int numero) 
+string es_par_o_impar(int numero) 
 {
     if (numero % 2 == 0) 
     {
@@ -24,7 +24,7 @@ int main()
     cout << "Ingresa un número: ";
     cin >> numero;
 
-    string resultado = esParOImpar(numero);
+    string resultado = es_par_o_impar(numero);
     cout << "El número " << numero << " es " << resultado << "." << endl;
 
     return 0;
