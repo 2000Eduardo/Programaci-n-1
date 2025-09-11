@@ -1,3 +1,8 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Eduardo Erick Miguel Gomez Rojas
+// Fecha creación: 10/09/2025
+// Número de ejercicio: 1
+
 #include <iostream>
 using namespace std;
 
